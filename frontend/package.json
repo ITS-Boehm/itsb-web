@@ -56,7 +56,7 @@
     "@types/react-router-hash-link": "1.2.1",
     "@types/react-scrollspy": "3.3.3",
     "@types/react-transition-group": "4.4.0",
-    "@typescript-eslint/eslint-plugin": "4.15.0",
+    "@typescript-eslint/eslint-plugin": "4.17.0",
     "babel-eslint": "10.1.0",
     "eslint": "7.20.0",
     "eslint-config-react-app": "6.0.0",
